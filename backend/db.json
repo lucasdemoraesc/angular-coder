@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 2.5
+    },
+    {
+      "id": 2,
+      "name": "Marca Texto BIC Verde",
+      "price": 4
+    },
+    {
+      "id": 3,
+      "name": "Borracha Faber-Castell",
+      "price": 3.25
+    },
+    {
+      "name": "Caneta azul",
+      "price": "3.50",
+      "id": 4
+    }
+  ]
+}
