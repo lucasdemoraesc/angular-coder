@@ -19,7 +19,6 @@ import { NavComponent } from './components/template/nav/nav.component';
 import { HomeComponent } from './views/home/home.component';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { RedDirective } from './directives/red.directive';
-import { ForDirective } from './directives/for.directive';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 
 @NgModule({
@@ -31,7 +30,6 @@ import { ProductCreateComponent } from './components/product/product-create/prod
     HomeComponent,
     ProductCrudComponent,
     RedDirective,
-    ForDirective,
     ProductCreateComponent
   ],
   imports: [
