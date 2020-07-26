@@ -22,8 +22,13 @@
     },
     {
       "name": "Régua 30cm",
-      "price": "5,00",
+      "price": "5.00",
       "id": 5
+    },
+    {
+      "name": "Notebook",
+      "price": 2499,
+      "id": 6
     }
   ]
 }
