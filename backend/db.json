@@ -6,16 +6,6 @@
       "price": 2.5
     },
     {
-      "id": 2,
-      "name": "Marca Texto BIC Verde",
-      "price": 4
-    },
-    {
-      "id": 3,
-      "name": "Borracha Faber-Castell",
-      "price": 3.25
-    },
-    {
       "name": "Caneta azul",
       "price": 3.5,
       "id": 4
@@ -24,6 +14,11 @@
       "name": "Régua 30cm",
       "price": 5,
       "id": 5
+    },
+    {
+      "name": "Borracha Faber-Castel",
+      "price": 3.49,
+      "id": 6
     }
   ]
 }
