@@ -26,8 +26,6 @@ import { ProductCrudComponent } from './views/product-crud/product-crud.componen
 import { RedDirective } from './directives/red.directive';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 import { ProductReadComponent } from './components/product/product-read/product-read.component';
-import { ProductRead2Component } from './components/product/product-read2/product-read2.component';
-
 
 import localePt from '@angular/common/locales/pt';
 import { registerLocaleData } from '@angular/common';
@@ -46,7 +44,6 @@ registerLocaleData(localePt);
     RedDirective,
     ProductCreateComponent,
     ProductReadComponent,
-    ProductRead2Component,
     ProductUpdateComponent
   ],
   imports: [
