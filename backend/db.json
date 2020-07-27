@@ -17,12 +17,12 @@
     },
     {
       "name": "Caneta azul",
-      "price": "3.50",
+      "price": 3.50,
       "id": 4
     },
     {
       "name": "Régua 30cm",
-      "price": "5.00",
+      "price": 5.00,
       "id": 5
     },
     {
