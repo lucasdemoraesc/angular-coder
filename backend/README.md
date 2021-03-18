@@ -1,4 +1,4 @@
-# API com json-server
+# Fake API com json-server
 
 Este arquivo contém os passos necessários para se criar e rodar uma API básica utilizando json-server.
 Utilize este tipo de recurso quando precisar testar aplicações clientes, e suas requisições.
